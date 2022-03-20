@@ -52,5 +52,5 @@ def find_hashtags(tweet):
 # OUTPUT: df appended with preprocessed tweet and list of hashtags
 def get_hashtags(tweet_df, content):
     tweet_df['cleaned_tweet'] = tweet_df[content].map(preprocess_tweet)
-    tweet_df['hashtags'] = tweet_df['clean_tweet'].map(find_hashtags)
+    tweet_df['hashtags'] = tweet_df['cleaned_tweet'].map(find_hashtags)
     return tweet_df
