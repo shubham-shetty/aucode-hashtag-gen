@@ -1,6 +1,6 @@
 # Automatic Hashtag Generation for Social Media Posts Using Neural Text Generation Models  
 
-This project was developed as part of an industry mentored research project for [AuCoDe](aucode.io), in collaboration with UMass CICS as part of the course COMPSCI-696DS.
+This project was developed as part of an industry mentored research project for [AuCoDe](https://www.aucode.io/), in collaboration with UMass CICS as part of the course COMPSCI-696DS.
 
 **Industry Mentor**: Keen Sung  
 **PhD Mentor**: Subendhu Rongali  
